@@ -126,7 +126,7 @@ ul.main-navigation-menu li > ul.sub-menu > li.open > a, ul.main-navigation-menu 
 	color: #007AFF;
 }
 .footer-fixed .footer {
-	background: rgba(43, 57, 74, 0.9); !important;
+	background: rgba(43, 57, 74, 0.9); 
 	border-top-color: #455F77;	
 }
 .footer-inner {
