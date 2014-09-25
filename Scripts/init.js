@@ -1,0 +1,2 @@
+﻿FormElements.init();
+Contact.init();
