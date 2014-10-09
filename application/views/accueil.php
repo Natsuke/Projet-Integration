@@ -204,7 +204,7 @@
                                     <a href="flot.html">Intégration technologique</a>
                                 </li>
                                 <li>
-                                    <a href="morris.html">Routage et commutation</a>
+                                    <a href="morris.html">Routages et commutations</a>
                                 </li>
                             </ul>
                             <!-- /.nav-second-level -->
